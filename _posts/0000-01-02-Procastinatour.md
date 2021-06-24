@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Barbecue sauce on titties
 Use the left arrow to go back!
